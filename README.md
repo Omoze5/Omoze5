@@ -36,15 +36,6 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
    <img src= "https://github.com/Omoze5/Omoze5/blob/main/Pycharm.png" alt="Pycharm" style="width:70px;">    <img src= "https://github.com/Omoze5/Omoze5/blob/main/visual-studio-code-logo.png" alt="Visual_code" style="width:70px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/Jupyter.png" alt="Jupyter" style="width:70px;">
 
 
-## Pinned Projects
-
-- [Project 1](https://github.com/your-username/project-1): Short description of project 1.
-- [Project 2](https://github.com/your-username/project-2): Short description of project 2.
-- [Project 3](https://github.com/your-username/project-3): Short description of project 3.
-
-
-
-
 
 <!--
 **Omoze5/Omoze5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
