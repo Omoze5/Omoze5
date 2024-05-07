@@ -30,6 +30,11 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 * **Database**
 
   <img src= "https://github.com/Omoze5/Omoze5/blob/main/MYSQL.png" alt="SQL" style="width:100px;">
+
+* **IDEs**
+
+   <img src= "https://github.com/Omoze5/Omoze5/blob/main/Pycharm.png" alt="Pycharm" style="width:100px;">
+
   
 
   
