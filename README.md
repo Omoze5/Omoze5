@@ -5,10 +5,8 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 ![Omoze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omoze5&show_icons=true&theme=radical)
 
 
- #### 🚧I am currently working on
- 
-      * Deep Learning and Database Design using SQl
-      *
+  * 🚧I am currently working on **Machine Learning**
+  * 📚 Currently Learning **Deep Learning**
 
 <!--
 **Omoze5/Omoze5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
