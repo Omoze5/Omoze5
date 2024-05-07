@@ -10,7 +10,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
   * 📚 Currently Learning **Deep Learning**
   * 👯 I'm looking to collaborate on **Machine Learning Projects**
   * 💡 Got a question? Ask me about **Python, ML, SQL**
-  *  📬 How to reach me  📩(mailto:egbuleomoze@gmail.com)
+  *  📬 How to reach me  [📩](mailto:egbuleomoze@gmail.com)
 
 
 
