@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Hi I'm Egbule Omoze Mercy👋
+I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secrets that data reveals in insightful poetic sparkles.
+[![Omoze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omoze5)](https://github.com/Omoze5/github-readme-stats)
 <!--
 **Omoze5/Omoze5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
