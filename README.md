@@ -3,6 +3,8 @@
 ### Hi I'm Egbule Omoze Mercy👋
 I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secrets that data reveals in insightful poetic sparkles.
 ![Omoze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omoze5&show_icons=true&theme=radical)
+
+
  🔭 I am currently working on
       * Deep Learning and Database Design using SQl
       *
