@@ -17,8 +17,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 #### My Skills
 * Data Science and Machine Learning
   
-   <img src="https://raw.githubusercontent.com/Omoze5/Omoze5/main/kindpng_5747046.png" alt="Pandas" style="width:100px;"> <img src="https://github.com/Omoze5/Omoze5/raw/main/Scikit-Learn.png" alt="Scikit-Learn" style="width:100px;">
-
+   <img src="https://raw.githubusercontent.com/Omoze5/Omoze5/main/kindpng_5747046.png" alt="Pandas" style="width:100px;"> <img src="https://github.com/Omoze5/Omoze5/raw/main/Scikit-Learn.png" alt="Scikit-Learn" style="width:100px;"> <img src= "https://github.com/Omoze5/Omoze5/blob/main/Pytorch.png" alt="Pytorch" style="width:100px;">
 
 
 
