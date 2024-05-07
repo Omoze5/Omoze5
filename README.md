@@ -21,7 +21,8 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 
 * Visualization Tools
     
-    <img src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" style="width:100px;">
+    <img src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" style="width:100px;">     <img src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" style="width:100px;"> 
+
 
 
 
