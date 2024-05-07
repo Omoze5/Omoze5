@@ -7,7 +7,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 
 
   * 🚧 I am currently working on **Machine Learning**
-  * 📚 Currently Learning **Deep Learning**
+  * 📚 Currently Learning **Deep Learning using Pytorch Framework**
   * 👯 I'm looking to collaborate on **Machine Learning Projects**
   * 💡 Got a question? Ask me about **Python, ML, SQL**
 
