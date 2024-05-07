@@ -21,11 +21,11 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 
 * **Visualization Tools**
     
-    <img src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" style="width:100px;">     <img src= "https://github.com/Omoze5/Omoze5/blob/main/Matplotlib.png" alt="Matplotlib" style="width:100px;"> <img src= "https://github.com/Omoze5/Omoze5/blob/main/Powerbi.png" alt="Power Bi" style="width:100px;">
+    <img src= "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*5VKgpRUCInBKmWBXFvSvvA.png" alt="Seaborn" style="width:100px;">     <img src= "https://github.com/Omoze5/Omoze5/blob/main/Matplotlib.png" alt="Matplotlib" style="width:100px;"> <img src= "https://github.com/Omoze5/Omoze5/blob/main/Powerbi.png" alt="Power Bi" style="width:70px;">
 
 * **Web Development**
   
-   <img src= "https://github.com/Omoze5/Omoze5/blob/main/HTML.png" alt="HTML" style="width:100px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/css-logo.png" alt="CSS" style="width:70px;">     <img src= "https://github.com/Omoze5/Omoze5/blob/main/flask-logo.png" alt="Flask" style="width:70px;">
+   <img src= "https://github.com/Omoze5/Omoze5/blob/main/HTML.png" alt="HTML" style="width:70px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/css-logo.png" alt="CSS" style="width:70px;">     <img src= "https://github.com/Omoze5/Omoze5/blob/main/flask-logo.png" alt="Flask" style="width:70px;">
 
 * **Database**
 
