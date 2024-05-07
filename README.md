@@ -11,7 +11,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
   * 👯 I'm looking to collaborate on **Machine Learning Projects**
   * 💡 Got a question? Ask me about **Python, ML, SQL**
   *  📬 How to reach me  [📩](mailto:egbuleomoze@gmail.com)
-  *  https://github.com/Omoze5/Omoze5/blob/main/linkedin.256x256.png
+  *  ![omo](https://github.com/Omoze5/Omoze5/blob/main/linkedin.256x256.png)
 
 
 
