@@ -1,6 +1,6 @@
-#### :octocat: Welcome to my GitHub profile! :rocket:
+                                                 # :octocat: Welcome to my GitHub profile! :rocket:
 
-# Hi I'm Egbule Omoze Mercy👋
+### Hi I'm Egbule Omoze Mercy👋
 I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secrets that data reveals in insightful poetic sparkles.
 ![Omoze's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omoze5&show_icons=true&theme=radical)
 <!--
