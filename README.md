@@ -11,8 +11,11 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
   * 👯 I'm looking to collaborate on **Machine Learning Projects**
   * 💡 Got a question? Ask me about **Python, ML, SQL**
 
-#### 📬 How to connet with me 
+#### 📬 How to connect with me 
 [📩](mailto:egbuleomoze@gmail.com) [LinkedIn](https://www.linkedin.com/in/omoze-mercy-egbule-840b391b3/)
+
+#### My Skills
+* Data Science and Machine Learning 
 
 
 
