@@ -14,7 +14,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 #### 📬 How to connect with me 
 [📩](mailto:egbuleomoze@gmail.com) [LinkedIn](https://www.linkedin.com/in/omoze-mercy-egbule-840b391b3/)
 
-#### My Skills
+### My Skills
 * **Data Science and Machine Learning**
   
    <img src="https://raw.githubusercontent.com/Omoze5/Omoze5/main/kindpng_5747046.png" alt="Pandas" style="width:100px;"> <img src="https://github.com/Omoze5/Omoze5/raw/main/Scikit-Learn.png" alt="Scikit-Learn" style="width:100px;"> <img src= "https://github.com/Omoze5/Omoze5/blob/main/Pytorch.png" alt="Pytorch" style="width:100px;"> <img src="https://github.com/Omoze5/Omoze5/raw/main/Numpy.png" alt="Numpy" style="width:100px;">
@@ -26,6 +26,13 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 * **Web Development**
   
    <img src= "https://github.com/Omoze5/Omoze5/blob/main/HTML.png" alt="HTML" style="width:100px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/css-logo.png" alt="CSS" style="width:70px;">     <img src= "https://github.com/Omoze5/Omoze5/blob/main/flask-logo.png" alt="Flask" style="width:70px;">
+
+* **Database**
+
+  <img src= "https://github.com/Omoze5/Omoze5/blob/main/MYSQL.png" alt="SQL" style="width:100px;">
+  
+
+  
 
 
 
