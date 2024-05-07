@@ -33,7 +33,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 
 * **IDEs**
 
-   <img src= "https://github.com/Omoze5/Omoze5/blob/main/Pycharm.png" alt="Pycharm" style="width:100px;">    <img src= "https://github.com/Omoze5/Omoze5/blob/main/visual-studio-code-logo.png" alt="Visual_code" style="width:100px;">
+   <img src= "https://github.com/Omoze5/Omoze5/blob/main/Pycharm.png" alt="Pycharm" style="width:100px;">    <img src= "https://github.com/Omoze5/Omoze5/blob/main/visual-studio-code-logo.png" alt="Visual_code" style="width:100px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/Jupyter.png" alt="Jupyter" style="width:100px;">
 
 
   
