@@ -1,4 +1,4 @@
-# **::custom_emoji_name: Welcome to my GitHub profile! :rocket:**
+# **:custom_emoji_name: Welcome to my GitHub profile! :rocket:**
 
 ### Hi I'm Egbule Omoze Mercy👋
 I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secrets that data reveals in insightful poetic sparkles.
