@@ -15,7 +15,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 [📩](mailto:egbuleomoze@gmail.com) [LinkedIn](https://www.linkedin.com/in/omoze-mercy-egbule-840b391b3/)
 
 #### My Skills
-* Data Science and Machine Learning 
+* Data Science and Machine Learning ![Pandas](https://raw.githubusercontent.com/Omoze5/Omoze5/main/kindpng_5747046.png){:height="100px" width="100px"}
 
 
 
