@@ -25,7 +25,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
 
 * Web Development
   
-   <img src= "https://github.com/Omoze5/Omoze5/blob/main/HTML.png" alt="HTML" style="width:100px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/css-logo.png" alt="CSS" style="width:100px;">
+   <img src= "https://github.com/Omoze5/Omoze5/blob/main/HTML.png" alt="HTML" style="width:100px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/css-logo.png" alt="CSS" style="width:70px;">
 
 
 
