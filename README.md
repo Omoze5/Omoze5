@@ -12,7 +12,7 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
   * 💡 Got a question? Ask me about **Python, ML, SQL**
 
 #### 📬 How to connet with me 
-      [📩](mailto:egbuleomoze@gmail.com) [LinkedIn](https://www.linkedin.com/in/omoze-mercy-egbule-840b391b3/)
+[📩](mailto:egbuleomoze@gmail.com) [LinkedIn](https://www.linkedin.com/in/omoze-mercy-egbule-840b391b3/)
 
 
 
