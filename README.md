@@ -1,5 +1,5 @@
 <center>
-# <strong>:octocat: Welcome to my GitHub profile! :rocket:</strong>
+<strong># :octocat: Welcome to my GitHub profile! :rocket:</strong>
 
 </center>
 
