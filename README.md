@@ -12,6 +12,8 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
   * 💡 Got a question? Ask me about **Python, ML, SQL**
   *  📬 How to reach me Gmail[https://github.com/Omoze5/Omoze5/blob/main/Gmail_Logo_32px.png](mailto:egbuleomoze@gmail.com)
   *  [![Gmail](https://github.com/Omoze5/Omoze5/blob/main/Gmail_Logo_32px.png)](mailto:egbuleomoze@gmail.com)
+  *  [<img src="[path_to_your_image](https://github.com/Omoze5/Omoze5/blob/main/Gmail_Logo_32px.png)" width="100"/>](mailto:egbuleomoze@gmail.com)
+
 
 
 
