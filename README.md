@@ -36,7 +36,8 @@ I am a Data Scientist and Machine Learning Enthusiast. I love to tell the secret
    <img src= "https://github.com/Omoze5/Omoze5/blob/main/Pycharm.png" alt="Pycharm" style="width:70px;">    <img src= "https://github.com/Omoze5/Omoze5/blob/main/visual-studio-code-logo.png" alt="Visual_code" style="width:70px;">  <img src= "https://github.com/Omoze5/Omoze5/blob/main/Jupyter.png" alt="Jupyter" style="width:70px;">
 
 ### Achievement
-   * Completed Professional Data Science course on DataCamp
+   * Professional Data Science Cert, DataCamp
+   * Diploma in Data Science, Altschool Africa
 
 
 <!--
